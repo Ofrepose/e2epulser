@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/e2epulser/static/css/main.dc6175c2.css",
+    "main.js": "/e2epulser/static/js/main.dda74e65.js",
+    "static/media/auth4.jpg": "/e2epulser/static/media/auth4.e729f4ebe6a126a93ebf.jpg",
+    "static/media/alt.webp": "/e2epulser/static/media/alt.817095903773697df5bf.webp",
+    "index.html": "/e2epulser/index.html",
+    "static/media/checked.svg": "/e2epulser/static/media/checked.6cb596af2bbf729dfac3.svg",
+    "main.dc6175c2.css.map": "/e2epulser/static/css/main.dc6175c2.css.map",
+    "main.dda74e65.js.map": "/e2epulser/static/js/main.dda74e65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc6175c2.css",
+    "static/js/main.dda74e65.js"
+  ]
+}
