@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/e2epulser/static/css/main.50c09f07.css",
-    "main.js": "/e2epulser/static/js/main.e0d4e457.js",
+    "main.js": "/e2epulser/static/js/main.71ae263f.js",
     "static/media/e2ebg6.svg": "/e2epulser/static/media/e2ebg6.b3a944fb486f63492b07122ee9cc32ee.svg",
     "static/media/e2ebg4.svg": "/e2epulser/static/media/e2ebg4.51d75cdec331c3970561372b978a4644.svg",
     "static/media/e2ebg1.svg": "/e2epulser/static/media/e2ebg1.5f13e8d42dc6514169159dca062b8175.svg",
@@ -13,10 +13,10 @@
     "index.html": "/e2epulser/index.html",
     "static/media/checked.svg": "/e2epulser/static/media/checked.6cb596af2bbf729dfac3.svg",
     "main.50c09f07.css.map": "/e2epulser/static/css/main.50c09f07.css.map",
-    "main.e0d4e457.js.map": "/e2epulser/static/js/main.e0d4e457.js.map"
+    "main.71ae263f.js.map": "/e2epulser/static/js/main.71ae263f.js.map"
   },
   "entrypoints": [
     "static/css/main.50c09f07.css",
-    "static/js/main.e0d4e457.js"
+    "static/js/main.71ae263f.js"
   ]
 }
